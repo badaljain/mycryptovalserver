@@ -1,0 +1,74 @@
+{
+    "badaljain77": {
+        "id": "77",
+        "name": "Badal Jain",
+        "portfolio": {
+            "IOT": {
+                "symbol": "IOT",
+                "qty": 3690.67549800,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "POWR": {
+                "symbol": "POWR",
+                "qty": 5780.214,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "BQX": {
+                "symbol": "BQX",
+                "qty": 1271.727,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "TRON": {
+                "symbol": "TRON",
+                "qty": 500,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "SUB": {
+                "symbol": "SUB",
+                "qty": 499.5,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "KMD": {
+                "symbol": "KMD",
+                "qty": 34.96,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "LSK": {
+                "symbol": "LSK",
+                "qty": 31.3507963,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "NAV": {
+                "symbol": "NAV",
+                "qty": 879.79112371,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "XRP": {
+                "symbol": "XRP",
+                "qty": 474.18411124,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "ADA": {
+                "symbol": "ADA",
+                "qty": 35138.9963114,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "BTC": {
+                "symbol": "BTC",
+                "qty": 0.27355372,
+                "price": 0, 
+                "priceBTC": 0
+            }
+        }
+    }
+}
