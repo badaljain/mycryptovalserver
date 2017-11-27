@@ -68,6 +68,30 @@
                 "qty": 0.27355372,
                 "price": 0, 
                 "priceBTC": 0
+            },
+            "ARK": {
+                "symbol": "ARK",
+                "qty": 39.86,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "ZRX": {
+                "symbol": "ZRX",
+                "qty": 0,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "KNC": {
+                "symbol": "KNC",
+                "qty": 0,
+                "price": 0, 
+                "priceBTC": 0
+            },
+            "AST": {
+                "symbol": "AST",
+                "qty": 0,
+                "price": 0, 
+                "priceBTC": 0
             }
         }
     }
